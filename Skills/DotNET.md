@@ -3,7 +3,7 @@
 - Core Concepts and Internals
   - Strengths and weaknesses of .NET
   - Stateful and stateless services
-  - Asynchronous and synchronous programming
+  - Asynchronous and synchronous programming k
   - Task-based asynchronous pattern
   - Garbage collection in .NET
   - .NET runtime versions and support
@@ -120,7 +120,7 @@
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity
+  - Unity h
 - Web development
   - ASP.NET Core
   - Blazor

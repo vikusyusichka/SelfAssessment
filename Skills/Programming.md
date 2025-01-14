@@ -11,7 +11,7 @@
   - Paradigm
   - Programm
   - Programming paradigm
-  - Programming language h
+  - Programming language u
   - Contract
   - Module
   - Library
@@ -59,9 +59,9 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case h
-  - Snake case h
-  - Kebab case h
+  - Camel case u
+  - Snake case k
+  - Kebab case k
   - Trailing commas
   - Return early
   - Fail-fast
@@ -80,10 +80,10 @@
   - Type inference
   - Covariance
   - Contravariance
-- Functions
+- Functions u
   - Signature
-  - Argument h
-  - Parameter h
+  - Argument u
+  - Parameter u
   - Pure function
   - Lambda expression
   - Side effects
@@ -93,7 +93,7 @@
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback
+  - Callback h
   - Listener
   - Composition
   - Pipe
@@ -160,12 +160,12 @@
   - Debugger
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring u
+  - Code review h
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git u
+  - Github u
   - Docker
   - Kubernetes
   - GCC
@@ -213,7 +213,7 @@
   - Kernel
   - Ring
   - Virtual memory
-  - File system
+  - File system u
   - Linux h
   - Unix
   - BSD
