@@ -7,7 +7,7 @@
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming h
+  - Object-oriented programming: 👂 heard
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -31,7 +31,7 @@
   - Operator `new`
   - Static method
   - Method
-  - Async method h
+  - Async method: 👂 heard
   - Getters, Setters
   - Public fields
   - Private fields

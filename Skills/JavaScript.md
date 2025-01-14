@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object` u
+  - `Object`: 🖐️ used
   - `Function`u
-  - `Boolean` u
-  - `Number` u
-  - `BigInt` u
-  - `String` u
-  - `Symbol` k
-  - `Infinity` h
-  - `NaN` h
-  - `undefined` k
-  - `null` k
-  - `this` h
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🖐️ used
+  - `String`: 🖐️ used
+  - `Symbol`: 🎓 known
+  - `Infinity`: 👂 heard
+  - `NaN`: 👂 heard
+  - `undefined`: 🎓 known
+  - `null`: 🎓 known
+  - `this`: 👂 heard
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof` u
-  - Destructuring u
-  - Generators u
-  - Iterators u
+  - `typeof`: 🖐️ used
+  - Destructuring: 🖐️ used
+  - Generators: 🖐️ used
+  - Iterators: 🖐️ used
   - Async generator
   - Async iterator
   - Chaining
@@ -32,16 +32,16 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators u
-  - Logical operators u
-  - Logical Assignment u
-  - Bitwise operators u
-  - Ternary operator u
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment: 🖐️ used
+  - Bitwise operators: 🖐️ used
+  - Ternary operator: 🖐️ used
   - `void`
   - `yield`
-  - `await` h
+  - `await`: 👂 heard
   - Template literal
-  - Strict mode k
+  - Strict mode: 🎓 known
   - Hoisting
   - `delete`
   - `in`
@@ -59,39 +59,39 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` u
-  - `while` u
-  - `do..while` u
-  - `for` u
-  - `for..in` u
-  - `for..of` u
-  - `for await` u
-  - `throw` h
-  - `break` u
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
+  - `for await`: 🖐️ used
+  - `throw`: 👂 heard
+  - `break`: 🖐️ used
   - `continue`u
-  - `import` u
-  - `export` u
-  - `label` h
-  - `try..catch` h
-  - `switch` u
+  - `import`: 🖐️ used
+  - `export`: 🖐️ used
+  - `label`: 👂 heard
+  - `try..catch`: 👂 heard
+  - `switch`: 🖐️ used
   - `class`
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function u
-  - Async function h
-  - Function declaration u
-  - Function expression u
-  - Default parameters k
+  - Arrow function: 🖐️ used
+  - Async function: 👂 heard
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🎓 known
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array` u
-  - `Map` u
+  - `Array`: 🖐️ used
+  - `Map`: 🖐️ used
   - `Set`
   - `WeakMap`
   - `WeakSet`
@@ -106,7 +106,7 @@
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON` u
+  - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
@@ -114,9 +114,9 @@
   - `console`
   - Timers
 - Infrastructure
-  - V8 h
-  - Node.js u
-  - npm u
-  - prettier u
-  - MDN u
+  - V8: 👂 heard
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 🖐️ used
   - TC39

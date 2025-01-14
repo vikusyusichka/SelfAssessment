@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop
-  - `try..catch` h
+  - `try..catch`: 👂 heard
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -22,11 +22,11 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks h
+  - Callbacks: 👂 heard
   - Callback-last-error-first
   - Thenable
-  - Promise h
-  - Async/await h
+  - Promise: 👂 heard
+  - Async/await: 👂 heard
   - Future
   - Deferred
   - Sync generator
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers h
+  - Timers: 👂 heard
   - `setImmediate`
   - `nextTick`
   - AbortController
@@ -68,8 +68,8 @@
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell h
-  - Promise hell h
+  - Callback hell: 👂 heard
+  - Promise hell: 👂 heard
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await

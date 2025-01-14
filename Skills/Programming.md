@@ -11,7 +11,7 @@
   - Paradigm
   - Programm
   - Programming paradigm
-  - Programming language u
+  - Programming language: 🖐️ used
   - Contract
   - Module
   - Library
@@ -32,15 +32,15 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value h
+  - Value: 👂 heard
   - Identifier
-  - Variable h
+  - Variable: 👂 heard
   - Constant
   - Scalar
   - Literal
   - Expression
   - Heap
-  - Function h
+  - Function: 👂 heard
   - Procedure
   - Method
   - Class
@@ -59,9 +59,9 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case u
-  - Snake case k
-  - Kebab case k
+  - Camel case: 🖐️ used
+  - Snake case: 🎓 known
+  - Kebab case: 🎓 known
   - Trailing commas
   - Return early
   - Fail-fast
@@ -82,8 +82,8 @@
   - Contravariance
 - Functions u
   - Signature
-  - Argument u
-  - Parameter u
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
   - Pure function
   - Lambda expression
   - Side effects
@@ -93,7 +93,7 @@
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback h
+  - Callback: 👂 heard
   - Listener
   - Composition
   - Pipe
@@ -160,12 +160,12 @@
   - Debugger
   - Tracing
   - Garbage collection
-  - Refactoring u
-  - Code review h
+  - Refactoring: 🖐️ used
+  - Code review: 👂 heard
   - Exception
   - Unittesting
-  - git u
-  - Github u
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
@@ -213,12 +213,12 @@
   - Kernel
   - Ring
   - Virtual memory
-  - File system u
-  - Linux h
+  - File system: 🖐️ used
+  - Linux: 👂 heard
   - Unix
   - BSD
-  - MacOS h
-  - Windows u
+  - MacOS: 👂 heard
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
