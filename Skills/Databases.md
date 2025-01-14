@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types: 🖐️ used
   - Performance tuning
   - Migrations
   - Schema versioning
@@ -10,10 +10,10 @@
   - Relational databases
   - Key-value store
   - Tuple store
-  - Graph databases
-  - Object databases
-  - Column databases
-  - Navigational databases
+  - Graph databases: 👂 heard
+  - Object databases: 👂 heard
+  - Column databases: 👂 heard
+  - Navigational databases: 👂 heard
   - Hierarchical databases
   - In-memory databases
   - Inverted index
@@ -35,7 +35,7 @@
   - Materialized views
   - Replications
   - Virtualization
-- SQL
+- SQL h
   - `SELECT`
   - `INSERT`
   - `UPDATE`
@@ -72,7 +72,7 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL
+  - MySQL: 👂 heard
   - MariaDB
   - MS SQL Server
   - Redis
@@ -87,8 +87,8 @@
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
-  - Data analysis
-  - AI tools
-  - Cloud databases
-  - Data Visualization
+  - Big data: 👂 heard
+  - Data analysis: 👂 heard
+  - AI tools: 🖐️ used
+  - Cloud databases: 👂 heard
+  - Data Visualization: 👂 heard
