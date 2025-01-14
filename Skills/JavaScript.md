@@ -1,12 +1,12 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
+  - `Object` h
+  - `Function`h
   - `Boolean`
   - `Number`
   - `BigInt`
-  - `String`
+  - `String` h
   - `Symbol`
   - `Infinity`
   - `NaN`
@@ -59,12 +59,12 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` h
+  - `while` h
+  - `do..while` h
+  - `for` h
+  - `for..in` h
+  - `for..of` h
   - `for await`
   - `throw`
   - `break`
